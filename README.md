@@ -4,5 +4,8 @@ An AI based real time translator , works on all apps , while u type it can chang
 
 
 
-https://github.com/user-attachments/assets/2129f6e7-b4ee-48e1-a18a-0bf3af6a3941
+
+
+https://github.com/user-attachments/assets/aa37eb3a-27e8-498e-9a2a-015d634fdd6d
+
 
